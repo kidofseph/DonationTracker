@@ -29,7 +29,7 @@ public class OAuth2Client
 		config.put("authentication_server_url", "https://www.twitchalerts.com/api/v1.0/token");
 		config.put("grant_type", "password");
 		config.put("username", "kidofseph");
-		config.put("password", "Irolld6dmg");
+		config.put("password", "");
 		config.put("scope", "donations.read");
 		config.put("resource_server_url",
 				"https://www.twitchalerts.com/api/donations?access_token=" + p_strAPIToken + "&currency=USD");
